@@ -4,3 +4,10 @@
 
 /.vs
 /iothereal/obj/Debug/net7.0
+/iothereal/iothereal.csproj.user
+*.vsidx
+/iothereal/.vs/iothereal/v17/.suo
+/iothereal/bin/Debug/net7.0/appsettings.json
+/iothereal/bin/Debug/net7.0
+/iothereal/obj/Debug
+/iothereal/obj
