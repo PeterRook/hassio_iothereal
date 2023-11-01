@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ljY/RoZuDliO1AtStodyIie4APAYwGdmVmYZBy2CfbiAUs/VOuSpu9pKmfX53C9gpA4oK+02Tliv0T8qy7P1IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Peter\\Source\\Repos\\PeterRook\\hassio_iothereal\\iothereal\\iothereal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Peter\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
