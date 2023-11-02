@@ -23,5 +23,5 @@ codenotary: "rook0562@gmail.com"
 apparmor: true
 hassio_api : true
 homeassistant_api: true
-image: ghcr.io/PeterRook/{arch}-hassiothereal
+image: ghcr.io/peterrook/{arch}-hassiothereal
 panel_icon: mdi:at
