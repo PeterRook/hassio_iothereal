@@ -1,5 +1,5 @@
 ﻿name: "Iothereal"
-version: "1.1.0"
+version: "1.1.1"
 slug: hassio_iothereal
 description: >-
   Blazor UI in Home Assistant
